@@ -22,7 +22,7 @@ Coming soon.
 1. Git kurun: https://git-scm.com/downloads
 2. Repo'yu klonlayın:
    ```bash
-   git clone https://github.com/KULLANICIADIN/crypto-utils.git
+   git clone https://github.com/frontaltorme/crypto-utils.git
    cd crypto-utils
 
 
